@@ -39,6 +39,7 @@ O Proffy é uma plataforma de estudos online que ajuda pessoas a encontrarem pro
 - Instalar Npm Scripts
 - Rodar npm run dev
 - Atualizar arquivos NodeJs
+- Porta localhost:5500
 
 ## 🔖 Layout
 
