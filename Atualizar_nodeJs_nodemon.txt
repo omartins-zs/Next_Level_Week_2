@@ -1,0 +1,18 @@
+npm -v
+
+npm-check-updates
+
+npm outdated | sed '1d; s/ .*/@latest/' | xargs npm i --save
+
+npm i -g npm-check-updates
+
+$ ncu -u
+
+npm install
+
+
+Funcionu :
+
+npm i -g npm-check-updates
+ncu -u
+npm install
